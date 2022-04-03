@@ -1,0 +1,19 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "ESLint practice",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^8.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ESLint"
+  ],
+  "author": "Artem Bolshak",
+  "license": "ISC"
+}
+    
